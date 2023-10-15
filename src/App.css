@@ -1,0 +1,46 @@
+.unorderedlist{
+   list-style: none;
+  
+}
+
+.unorderedlist li{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin: 10px auto;
+  
+  width: 80%;
+  padding: 20px 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.formdiv{
+  text-align: center;
+
+}
+
+.formdiv input{
+  border-radius: 10px;
+  padding: 10px 10px;
+  height: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  border: 2px solid black;
+  width: 350px;
+  height: 25px;
+  margin: 30px 20px;
+}
+
+.formdiv button{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+   padding: 10px 10px;
+   background-color: rgba(255, 17, 0, 0.966);
+   border-radius: 10px;
+}
+
+.items{
+   display: flex;
+   justify-content: space-between;
+}
+
